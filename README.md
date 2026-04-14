@@ -6,7 +6,7 @@ A full-stack web application for creating, editing, deleting, and managing notes
 
 ## 🚀 Live Demo
 *(Add your deployed link here if available)*  
-Example: https://your-app-link.com
+Example: http://localhost:3000/
 
 ---
 
